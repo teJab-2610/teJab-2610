@@ -1,5 +1,5 @@
 ### Hi there 👋
-![messagif](https://github.com/teJab-2610/teJab-2610/assets/110807369/0d7700c7-ade4-4456-bce5-1e1641b2829d)
+
 
 <!--
 **teJab-2610/teJab-2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
